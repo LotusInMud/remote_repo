@@ -1,1 +1,2 @@
 first line by Dev A
+line 2 added by Dev B
